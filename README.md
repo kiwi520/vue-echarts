@@ -1,5 +1,8 @@
 # echarts
 
+
+![image](https://github.com/kiwi520/vue-echarts/blob/main/src/assets/img/image-59563.png)
+
 ## Project setup
 ```
 yarn install
@@ -25,4 +28,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # vue-echarts
 
-![image](https://github.com/kiwi520/vue-echarts/main/IMG/ps2.png)
+
